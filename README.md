@@ -3,3 +3,13 @@ This C++ app is an implementation of a cryptocurrency simulator, it uses a crypt
 
 
 <img src="https://fxporfolio.s3.amazonaws.com/merklerex.png">
+
+
+## Usage
+
+To run the simulation, simply execute the advisorBot program in the terminal. 
+
+```
+$ ./advisorBot
+```
+
